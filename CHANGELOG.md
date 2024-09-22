@@ -1,5 +1,17 @@
 # Change Log
 
+## [1.18.13](https://github.com/vscode-neovim/vscode-neovim/compare/v1.18.12...v1.18.13) (2024-09-22)
+
+
+### Bug Fixes
+
+* update link to #performance docs from vscode affinity prompt ([#2254](https://github.com/vscode-neovim/vscode-neovim/issues/2254)) ([6505e54](https://github.com/vscode-neovim/vscode-neovim/commit/6505e542ae31cd12baba8624de88740f86978b2d))
+
+
+### Documentation
+
+* fix formatting ([4df0f6e](https://github.com/vscode-neovim/vscode-neovim/commit/4df0f6e3a61285ed7e090ceb6d1253288a4b092f))
+
 ## [1.18.12](https://github.com/vscode-neovim/vscode-neovim/compare/v1.18.11...v1.18.12) (2024-09-16)
 
 
